@@ -38,7 +38,7 @@ workflowDefinition:
     type: function
     parameters:
       function:
-        externalId: OEE TimeSeries
+        externalId: oee_timeseries
         data: { "hours": 1 }
     retries: 3
     timeout: 3600
